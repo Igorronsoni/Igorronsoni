@@ -13,7 +13,7 @@
 <img align="left" alt="Nodejs" title="Nodejs" width="25px" src="https://simpleicons.org/icons/nodedotjs.svg"/>
 <img align="left" alt="Nodets" title="Nodets" width="25px" src="https://simpleicons.org/icons/tsnode.svg"/>
 <img align="left" alt="Typescript" title="Typescript" width="25px" src="https://simpleicons.org/icons/typescript.svg"/>
-<img align="left" alt="Postman" title="Podejs" width="25px" src="https://simpleicons.org/icons/postman.svg"/>
+<img align="left" alt="Postman" title="Postman" width="25px" src="https://simpleicons.org/icons/postman.svg"/>
 <img align="left" alt="Styled Components" title="Styled Components" width="25px" src="https://simpleicons.org/icons/styledcomponents.svg"/>
 <img align="left" alt="Jest" title="Jest" width="25px" src="https://simpleicons.org/icons/jest.svg"/>
 <img align="left" alt="Ionic" title="Ionic" width="25px" src="https://simpleicons.org/icons/ionic.svg"/>

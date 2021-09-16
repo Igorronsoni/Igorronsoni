@@ -20,7 +20,7 @@
 <img align="left" alt="React" title="React" width="25px" src="https://simpleicons.org/icons/react.svg"/>
 <img align="left" alt="Docker" title="Docker" width="25px" src="https://simpleicons.org/icons/docker.svg"/>
 <img align="left" alt="Express" title="Express" width="25px" src="https://simpleicons.org/icons/express.svg"/>
-<img align="left" alt="C" title="C" width="25px" src="/src/tools/c.svg"/>
+<img align="left" alt="C" title="C" width="25px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FhTJTRhw_c-language-logo-png-transparent-png%2F&psig=AOvVaw1FPazHzwf9khHndYzZ8GYm&ust=1631921318212000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPj7xujShPMCFQAAAAAdAAAAABAD"/>
 <img align="left" alt="PHP" title="PHP" width="25px" src="https://simpleicons.org/icons/php.svg" />
 <img align="left" alt="JS" title="JS" width="25px" src="https://simpleicons.org/icons/javascript.svg" />
 <img align="left" alt="HTML" title="HTML" width="25px" src="https://simpleicons.org/icons/html5.svg" />

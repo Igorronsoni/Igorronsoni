@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img alt="Astronaut" title="Astronaut" width="60px" src="/src/imgs/astronaut.png"/>
+  <img alt="Astronaut" title="Astronaut" width="250px" src="/src/imgs/astronaut.png"/>
 
 </div>
 <h2 align="center">Hi, I am Igor Ronsoni</h2>

@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Logo do Astronauta](/src/imgs/astronaut.png)
+  <img alt="Astronaut" title="Astronaut" width="60px" src="/src/imgs/astronaut.png"/>
 
 </div>
 <h2 align="center">Hi, I am Igor Ronsoni</h2>
@@ -20,7 +20,7 @@
 <img align="left" alt="React" title="React" width="25px" src="https://simpleicons.org/icons/react.svg"/>
 <img align="left" alt="Docker" title="Docker" width="25px" src="https://simpleicons.org/icons/docker.svg"/>
 <img align="left" alt="Express" title="Express" width="25px" src="https://simpleicons.org/icons/express.svg"/>
-<img align="left" alt="C" title="C" width="25px" src="https://simpleicons.org/icons/c.svg"/>
+<img align="left" alt="C" title="C" width="25px" src="/src/tools/c.svg"/>
 <img align="left" alt="PHP" title="PHP" width="25px" src="https://simpleicons.org/icons/php.svg" />
 <img align="left" alt="JS" title="JS" width="25px" src="https://simpleicons.org/icons/javascript.svg" />
 <img align="left" alt="HTML" title="HTML" width="25px" src="https://simpleicons.org/icons/html5.svg" />

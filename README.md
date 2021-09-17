@@ -16,20 +16,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/Igorronsoni" target="blank"><img align="center" title="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="slippercat" height="30" width="25" /></a>
-  <a href="https://www.linkedin.com/in/igor-ronsoni-089ab6205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/igor-ronsoni-089ab6205/" title="LinkedIn" height="30" width="25" /></a>
-  <a href="https://www.facebook.com/igorronsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/igorronsoni" title="Facebook" height="30" width="25" /></a>
+  <p><a href="https://www.linkedin.com/in/igor-ronsoni-089ab6205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/igor-ronsoni-089ab6205/" title="LinkedIn" height="25" width="25" /></a> LinkedIn</p>
+  <p><a href="https://www.facebook.com/igorronsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/igorronsoni" title="Facebook" height="25" width="25" /></a> Facebook</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" title="aws" width="25" height="25"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" title="go" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" title="reactnative" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" title="redis" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" title="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="momgodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" title="materialize" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" title="go" width="25" height="25"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" title="reactnative" width="25" height="25"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" title="redis" width="25" height="25"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" title="postgresql" width="25" height="25"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="momgodb" width="25" height="25"/>
+  <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" title="materialize" width="25" height="25"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="css3" width="25" height="25"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" title="android" alt="android" width="25" height="25"/>
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" title="Angular" alt="angular" width="25" height="25"/>
@@ -63,8 +62,17 @@
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" title="unreal" alt="unreal" width="25" height="25"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorronsoni&show_icons=true&locale=en&layout=compact" alt="igorronsoni" /></p>
+<p>
+  <h3 align="left">Most Used</h3>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorronsoni&show_icons=true&locale=en&layout=compact" alt="igorronsoni" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igorronsoni&show_icons=true&locale=en" alt="igorronsoni" /></p>
+<p>
+  <h3 align="left">Stats</h3>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=igorronsoni&show_icons=true&locale=en" alt="igorronsoni" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igorronsoni&" alt="igorronsoni" /></p>
+<p>
+  <h3>Streak</h3>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igorronsoni&" alt="igorronsoni" />
+</p>

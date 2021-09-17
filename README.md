@@ -1,11 +1,6 @@
-<style>
-img{
-    border-radius: 50%;
-  }
-</style>
 <div align="center">
   
-  <img class="circle" alt="Astronaut" title="Astronaut" width="250px" src="/src/imgs/astronaut.png"/>
+  <img style="border-radius: 50%;" alt="Astronaut" title="Astronaut" width="250px" src="/src/imgs/astronaut.png"/>
 
 </div>
 <h1 align="center">Hi 👋, I'm Igor Ronsoni</h1>

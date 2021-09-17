@@ -16,24 +16,29 @@
   <p><a href="https://www.facebook.com/igorronsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/igorronsoni" title="Facebook" height="25" width="25" /> Facebook</a></p>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" title="go" width="35" height="35"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" title="arduino" alt="arduino" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="c" alt="c" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="java" alt="java" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="php" alt="php" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python" alt="python" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="35" height="35"/>
+</p>
+
+<h3 align="left">Tools</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" title="aws" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" title="go" width="35" height="35"/>
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" title="reactnative" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" title="redis" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" title="postgresql" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="momgodb" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" title="materialize" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="css3" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" title="android" alt="android" width="35" height="35"/>
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" title="Angular" alt="angular" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" title="angularjs" alt="angularjs" width="35" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" title="apachecordova" alt="apachecordova" width="35" height="35"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" title="arduino" alt="arduino" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title="bash" alt="bash" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="bootstrap" alt="bootstrap" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="c" alt="c" width="35" height="35"/>
   <img src="https://www.chartjs.org/media/logo-title.svg" title="chartjs" alt="chartjs" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="35" height="35"/>
@@ -41,21 +46,23 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="35" height="35"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" title="ionic" alt="ionic" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="java" alt="java" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="35" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" title="jest" alt="jest" width="35" height="35"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" title="nextjs" alt="nextjs" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="postman" alt="postman" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" title="unreal" alt="unreal" width="35" height="35"/>
+</p>
+
+<h3 align="left">DataBases</h3>
+<p align="left">    
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" title="postgresql" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="mongodb" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" title="redis" width="35" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" title="mariadb" alt="mariadb" width="35" height="35"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="mssql" alt="mssql" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="35" height="35"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" title="nextjs" alt="nextjs" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="php" alt="php" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="postman" alt="postman" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python" alt="python" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="35" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="sqlite" alt="sqlite" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" title="unreal" alt="unreal" width="35" height="35"/>
 </p>
 
 <h3 align="left">Most Used</h3>

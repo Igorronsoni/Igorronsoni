@@ -67,7 +67,7 @@
 
 <h3 align="left">Most Used</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igorronsoni&show_icons=true&locale=en&layout=compact" alt="igorronsoni" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igorronsoni&show_icons=true&locale=br&layout=compact" alt="igorronsoni" />
 </p>
 
 <h3 align="left">Stats</h3>

@@ -1,3 +1,8 @@
+<style>
+mark{
+    color:white;
+}
+</style>
 <div align="center">
   
   <img alt="Astronaut" title="Astronaut" width="250px" src="/src/imgs/astronaut.png"/>
@@ -22,7 +27,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" title="aws" width="35" height="35"/>
+  <mark><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" title="aws" width="35" height="35"/><mark>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" title="go" width="35" height="35"/>
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" title="reactnative" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" title="redis" width="35" height="35"/>

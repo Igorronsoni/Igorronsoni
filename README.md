@@ -62,17 +62,25 @@
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" title="unreal" alt="unreal" width="25" height="25"/>
 </p>
 
+---
+
 <h3 align="left">Most Used</h3>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorronsoni&show_icons=true&locale=en&layout=compact" alt="igorronsoni" />
 </p>
+
+---
 
 <h3 align="left">Stats</h3>
 <p>  
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=igorronsoni&show_icons=true&locale=en" alt="igorronsoni" />
 </p>
 
+---
+
 <h3 align="left">Streak</h3>
 <p>  
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igorronsoni&" alt="igorronsoni" />
 </p>
+
+---

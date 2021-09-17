@@ -1,8 +1,3 @@
-<style>
-mark{
-    color:white;
-}
-</style>
 <div align="center">
   
   <img alt="Astronaut" title="Astronaut" width="250px" src="/src/imgs/astronaut.png"/>
@@ -15,10 +10,6 @@ mark{
 - 🔭 I currently work at [Expresso São Miguel](https://www.expressosaomiguel.com.br/) as a Software Quality Analyst
 - 🚀 I love working with api's Node and a aplications React
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <p><a href="https://www.linkedin.com/in/igor-ronsoni-089ab6205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/igor-ronsoni-089ab6205/" title="LinkedIn" height="25" width="25" />  LinkedIn</a></p>
@@ -27,7 +18,7 @@ mark{
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <mark><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" title="aws" width="35" height="35"/><mark>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" title="aws" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" title="go" width="35" height="35"/>
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" title="reactnative" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" title="redis" width="35" height="35"/>

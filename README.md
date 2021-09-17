@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img style="border-radius: 50%;" alt="Astronaut" title="Astronaut" width="250px" src="/src/imgs/astronaut.png"/>
+  <img style="border-radius: 65px;" alt="Astronaut" title="Astronaut" width="250px" src="/src/imgs/astronaut.png"/>
 
 </div>
 <h1 align="center">Hi 👋, I'm Igor Ronsoni</h1>

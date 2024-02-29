@@ -7,8 +7,8 @@
 <h6 align="center">A passionate full stack developer from Brazil</h6>
 
 - 🤖 I'm a computer science student by [Universidade Federal da Fronteira Sul - UFFS](https://www.uffs.edu.br/)
-- 🔭 I currently work at [Expresso São Miguel](https://www.expressosaomiguel.com.br/) as a Software Quality Analyst
-- 🚀 I love working with api's Node and a aplications React
+- 🔭 I currently work at [Expresso São Miguel](https://www.expressosaomiguel.com.br/) as a Developer
+- 🚀 I working with back applications Node, Java, Kotlin, Python and front applications HTML and Css, React, Angular
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,32 +18,23 @@
 
 <h3 align="left">Languages</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="c" alt="c" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="php" alt="php" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python" alt="python" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="35" height="35"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="35" height="35"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="java" alt="javascript" width="35" height="35"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python" alt="python" width="35" height="35"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="35" height="35"/>
 </p>
 
 <h3 align="left">Tools</h3>
 <p align="left">
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" title="reactnative" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" title="materialize" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="css3" width="35" height="35"/>
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" title="Angular" alt="angular" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="bootstrap" alt="bootstrap" width="35" height="35"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" title="chartjs" alt="chartjs" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git" alt="git" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="35" height="35"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" title="ionic" alt="ionic" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git" alt="git" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="css3" width="35" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" title="jest" alt="jest" width="35" height="35"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" title="nextjs" alt="nextjs" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="postman" alt="postman" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="35" height="35"/>
 </p>
 
 <h3 align="left">DataBases</h3>
